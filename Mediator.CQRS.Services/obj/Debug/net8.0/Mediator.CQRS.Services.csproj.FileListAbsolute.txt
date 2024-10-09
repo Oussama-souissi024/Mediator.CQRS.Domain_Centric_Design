@@ -1,0 +1,17 @@
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Services\bin\Debug\net8.0\Mediator.CQRS.Services.deps.json
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Services\bin\Debug\net8.0\Mediator.CQRS.Services.dll
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Services\bin\Debug\net8.0\Mediator.CQRS.Services.pdb
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Services\bin\Debug\net8.0\Mediator.CQRS.Core.dll
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Services\bin\Debug\net8.0\Mediator.CQRS.Shared.dll
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Services\bin\Debug\net8.0\Mediator.CQRS.Core.pdb
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Services\bin\Debug\net8.0\Mediator.CQRS.Shared.pdb
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Services\obj\Debug\net8.0\Mediator.CQRS.Services.csproj.AssemblyReference.cache
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Services\obj\Debug\net8.0\Mediator.CQRS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Services\obj\Debug\net8.0\Mediator.CQRS.Services.AssemblyInfoInputs.cache
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Services\obj\Debug\net8.0\Mediator.CQRS.Services.AssemblyInfo.cs
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Services\obj\Debug\net8.0\Mediator.CQRS.Services.csproj.CoreCompileInputs.cache
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Services\obj\Debug\net8.0\Mediator.921FDD86.Up2Date
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Services\obj\Debug\net8.0\Mediator.CQRS.Services.dll
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Services\obj\Debug\net8.0\refint\Mediator.CQRS.Services.dll
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Services\obj\Debug\net8.0\Mediator.CQRS.Services.pdb
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Services\obj\Debug\net8.0\ref\Mediator.CQRS.Services.dll

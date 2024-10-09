@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Mediator.CQRS.DCD.props" />
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Shared\bin\Debug\net8.0\Mediator.CQRS.Shared.deps.json
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Shared\bin\Debug\net8.0\Mediator.CQRS.Shared.dll
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Shared\bin\Debug\net8.0\Mediator.CQRS.Shared.pdb
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Shared\obj\Debug\net8.0\Mediator.CQRS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Shared\obj\Debug\net8.0\Mediator.CQRS.Shared.AssemblyInfoInputs.cache
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Shared\obj\Debug\net8.0\Mediator.CQRS.Shared.AssemblyInfo.cs
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Shared\obj\Debug\net8.0\Mediator.CQRS.Shared.csproj.CoreCompileInputs.cache
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Shared\obj\Debug\net8.0\Mediator.CQRS.Shared.dll
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Shared\obj\Debug\net8.0\refint\Mediator.CQRS.Shared.dll
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Shared\obj\Debug\net8.0\Mediator.CQRS.Shared.pdb
+C:\Users\oussa\source\repos\Mediator.CQRS.DCD-main\Mediator.CQRS.DCD-main\Mediator.CQRS.Shared\obj\Debug\net8.0\ref\Mediator.CQRS.Shared.dll
