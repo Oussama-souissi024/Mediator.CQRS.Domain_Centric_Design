@@ -18,7 +18,7 @@ A reference **.NET 8** solution that showcases a clean, domain-centred architect
 ```
 Mediator.CQRS.Domain_Centric_Design-main
 │
-├── Mediator.CQRS.DCD/            # ASP.NET Core Web API (entrypoint)
+├── Mediator.CQRS.DCD/            # ASP.NET Core  Web API (entrypoint)
 │   └── Program.cs / Controllers  # Thin controllers – just MediatR send()
 │
 ├── Mediator.CQRS.Application/    # Use-cases (Commands, Queries, Handlers, Validators, PipelineBehaviours)
